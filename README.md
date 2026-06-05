@@ -1,7 +1,7 @@
 # PCA-EXP-4-MATRIX-ADDITION-WITH-UNIFIED-MEMORY AY 23-24
 <h3>AIM : To implement matrix addition using Unified Memory in CUDA, execute the program on GPU, and analyze its performance using NVIDIA Visual Profiler (nvprof) profiling tool. </h3>
 <h3>NAME : Chandru V</h3>
-<h3>REGISTER NO : 212224230043/h3>
+<h3>REGISTER NO : 212224230043</h3>
 <h3>EX. NO : 4</h3>
 <h3>DATE : 26/05/2026</h3>
 <h1> <align=center> MATRIX ADDITION WITH UNIFIED MEMORY </h3>
